@@ -1,4 +1,6 @@
-# ip-uploader
+# cloudflare-ip-uploader
+
+Because I didn't want to add a bunch of IP addresses to a zone firewall by hand.
 
 ## Getting Started
 
