@@ -123,5 +123,5 @@ main()
   .then(() => process.exit(0))
   .catch(err => {
     console.error(err);
-    process.exit(69);
+    process.exit(2);
   });
